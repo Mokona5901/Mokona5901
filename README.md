@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mokona5901
 - 👀 I’m interested in applications
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript and C.
-- 💞️ I’m looking to collaborate on a [Friday Night Funkin' Bot](https://github.com/Mokona5901/AutoFNF)
+- 💞️ I’m looking to collaborate on a [Friday Night Funkin' Bot](https://github.com/Mokona5901/AutoFunkin)
 <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif/revision/latest/scale-to-width-down/250?cb=20210412015112">
 
 <!---
