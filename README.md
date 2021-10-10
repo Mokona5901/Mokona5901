@@ -2,7 +2,7 @@
 - 👀 I’m interested in applications
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript and C.
 - 💞️ I’m looking to collaborate on A Friday Night Funkin' Bot
-- 📫 How to reach me ...
+<img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif/revision/latest/scale-to-width-down/250?cb=20210412015112">
 
 <!---
 Mokona5901/Mokona5901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
