@@ -10,7 +10,7 @@ Languages learned :
 - [ ] CSS #FFFFFF
 - [ ] JavaScript ( )
 - [X] C { }
-- [ ] Lua
+- [X] Lua
 - [ ] Haxe
 
 [![Mokona5901's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokona5901&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
