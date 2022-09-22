@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mokona5901
 - 👀 I’m interested in FNF mods
-- <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif" width="25" height="25"/> I'm the creator of upcoming mods (Stone Ocean and Dungeon Funkin' (about the Pokémon Mystery Dungeon series))
+- <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif" width="25" height="25"/> I'm the creator of upcoming mods (Stone Ocean and <strong>Dungeon Night Funkin'</strong>(about the Pokémon Mystery Dungeon series))
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, C, Lua and Haxe.
 - 💞️ I’m looking to collaborate on a Friday Night Funkin' Mod and on a [FNF Bot](https://github.com/Mokona5901/AutoFunkin)
 
