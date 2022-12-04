@@ -9,7 +9,7 @@ Languages learned :
 - [x] Python 🐍
 - [x] CSS #FFFFFF
 - [x] JavaScript ( )
-- [ ] C++ { }
+- [x] C++ { }
 - [ ] Lua
 - [ ] Haxe
 
