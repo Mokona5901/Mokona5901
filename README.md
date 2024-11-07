@@ -11,8 +11,8 @@ Languages learned :
 - [x] CSS #FFFFFF
 - [x] JavaScript ( )
 - [x] C++ { }
-- [ ] Lua
-- [ ] Haxe
+- [ ] Lua <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" width="25" height="25" align="center"></a>
+- [ ] Haxe <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Haxe_logo.svg/1024px-Haxe_logo.svg.png" width="25" height="25" align="center"></a>
 - [ ] Docker 🐋
 
 [![Mokona5901's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokona5901&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
