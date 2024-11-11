@@ -3,7 +3,7 @@
 - 👀 I’m interested in FNF mods
 - <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif" width="25" height="25"/> I'm the creator of upcoming mods : <strike>Stone Ocean</strike> <strong>Dungeon Night Funkin'</strong> (about the Pokémon Mystery Dungeon series)
 - 🌱 I’m currently learning Lua, Haxe and Docker.
-- 💞️ I’m looking to ollaborate on a Friday Night Funkin' Mod and on a [FNF Bot](https://github.com/Mokona5901/AutoFunkin) compatible with [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
+- 💞️ I’m looking to collaborate on a Friday Night Funkin' Mod and on a [FNF Bot](https://github.com/Mokona5901/AutoFunkin) compatible with [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 
 Languages learned :
 - [x] HTML <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="25" height="25" align="center"></a>
