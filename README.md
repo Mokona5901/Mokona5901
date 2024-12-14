@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&color=FFFFFF&width=435&height=31&lines=Some+Node.JS+dev;Some+C%2B%2B+dev;Some+Geometry+Dash+enjoyer)](https://git.io/typing-svg)
 - 👋 Hi, I’m @Mokona5901
 - 👀 I’m interested in FNF mods
-- <img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif" width="25" height="25"/> I'm the creator of upcoming mods : <strike>Stone Ocean</strike> <strong>Dungeon Night Funkin'</strong> (about the Pokémon Mystery Dungeon series)
+- <a href="link" style="text-align: center"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a2/FNF_animated_logo.gif" width="25" height="25" align="center"></a> I'm the creator of upcoming mods : <strike>Stone Ocean</strike> <strong>Dungeon Night Funkin'</strong> (about the Pokémon Mystery Dungeon series)
 - 🌱 I’m currently learning Lua, Haxe and Docker.
 - 💞️ I’m looking to collaborate on a Friday Night Funkin' Mod and on a [FNF Bot](https://github.com/Mokona5901/AutoFunkin) compatible with [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 
