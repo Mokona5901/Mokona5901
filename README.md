@@ -41,4 +41,4 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 -->
 
 <!-- Custom typing text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=500&color=FFFFFF&width=435&height=31&lines=Node.JS+developer;C%2B%2B+developer;Geometry+Dash+enjoyer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=500&color=FFFFFF&width=435&height=31&lines=Node.JS+developer;C%2B%2B+developer;Check+my+repos!;Geometry+Dash+enjoyer;Uhh+what+am+I+supposed+to+say...;If+you+stayed+here+this+long+leave+a+follow!)](https://git.io/typing-svg)
