@@ -2,7 +2,7 @@
 
 ## 👋 Hello there!
 <!-- Discord user -->
-### 🧠 About Me <a href="https://discord.com/users/602431280113778690/"><img src="https://discord.c99.nl/widget/theme-1/602431280113778690.png" height="200" align="right"/></a><br>
+### 🧠 About Me <a href="https://discord.com/users/602431280113778690/"><img src="https://discord.c99.nl/widget/theme-1/602431280113778690.png" height="200" align="right"/></a><br><br>
 
 French developer passionate about building tools and apps that make life easier.<br>
 I enjoy working with Node.js and C++.<br>
