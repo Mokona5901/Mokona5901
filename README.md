@@ -30,7 +30,8 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 </details>
 
 <!-- Github stats -->
-[![Mokona5901's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mokona5901&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Mokona5901's GitHub stats](https://raw.githubusercontent.com/Mokona5901/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Mokona5901's GitHub languages stats](https://raw.githubusercontent.com/Mokona5901/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- Github contribution snake
 <picture>
