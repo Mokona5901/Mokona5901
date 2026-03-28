@@ -1,11 +1,10 @@
 <!-- Welcome to my README -->
 
 ## 👋 Hello there!
-<!-- Discord user -->
-### 🧠 About Me <a href="https://discord.com/users/602431280113778690/"><img src="https://discord.c99.nl/widget/theme-1/602431280113778690.png" height="200" align="right"/></a><br>
-
+<!-- Discord and Ko-fi -->
+### 🧠 About Me <a href="https://discord.com/users/602431280113778690/"><img src="https://discord.c99.nl/widget/theme-1/602431280113778690.png" height="200" align="right"/></a>
 French developer passionate about building tools and apps that make life easier.<br>
-I enjoy working with Node.js and C++.<br>
+I enjoy working with Node.js and C++.<br><a href="https://ko-fi.com/mokona59"><img src="https://ko-fi.com/img/githubbutton_sm.svg" align="right"></a>
 Feel free to contact me for any job opportunity or any collaboration!<br>
 
 <details open>
