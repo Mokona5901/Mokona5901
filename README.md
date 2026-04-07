@@ -17,7 +17,7 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 - JavaScript <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="25" height="25" align="center"></a>
 - Python <a href="link" style="text-align: center"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="25" height="25" align="center"></a> 
 - C++ <a href="link" style="text-align: center"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="25" height="25" align="center"></a>
-- Node.JS <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="35" height="25" align="center"></a>
+- Node.JS <a href="link" style="text-align: center"><img src="https://nodejs.org/static/logos/jsIconGreen.svg" width="25" height="25" align="center"></a>
 - Symfony <a href="link" style="text-align: center"><img src="https://symfony.com/logos/symfony_white_03.png" width="35" height="40" align="center"></a>
 </details>
 
@@ -25,9 +25,9 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 <details>
 <summary><ins>What next ?</ins></summary>
 
-- React <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" height="30" align="center"></a>
-- Vue.JS <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" width="30" height="30" align="center"></a>
-- Haxe <a href="link" style="text-align: center"><img src="https://haxe.org/img/branding/haxe-logo-glyph.png" width="25" height="30" align="center"></a>
+- React <a href="link" style="text-align: center"><img src="https://react.dev/favicon-32x32.png" width="30" height="30" align="center"></a>
+- Vue.JS <a href="link" style="text-align: center"><img src="https://vuejs.org/logo.svg" width="30" height="30" align="center"></a>
+- Haxe <a href="link" style="text-align: center"><img src="https://haxe.org/img/branding/haxe-logo-glyph.png" width="30" height="30" align="center"></a>
 - Docker <a href="link" style="text-align: center"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="40" height="40" align="center"></a>
 </details>
 
