@@ -33,8 +33,8 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 
 <p align="center">
 <!-- Github stats -->
-<img src="https://raw.githubusercontent.com/Mokona5901/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Mokona5901's GitHub stats">
-<img src="https://raw.githubusercontent.com/Mokona5901/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="Mokona5901's GitHub languages stats"><br><br>
+<img src="https://raw.githubusercontent.com/Mokona59/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Mokona59's GitHub stats">
+<img src="https://raw.githubusercontent.com/Mokona59/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="Mokona59's GitHub languages stats"><br><br>
 <!-- Ko-fi button -->
 <a href="https://ko-fi.com/mokona59"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a><br><br>
 </p>
@@ -43,8 +43,8 @@ Feel free to contact me for any job opportunity or any collaboration!<br>
 
 <!-- Github contribution snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mokona5901/Mokona5901/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mokona5901/Mokona5901/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mokona5901/Mokona5901/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mokona59/Mokona59/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mokona59/Mokona59/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mokona59/Mokona59/output/github-contribution-grid-snake-dark.svg">
 </picture>
 -->
