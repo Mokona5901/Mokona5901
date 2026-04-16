@@ -9,26 +9,25 @@ I enjoy working with Node.js and C++.<br>
 Feel free to contact me for any job opportunity or any collaboration!<br>
 
 <!-- Learned languages/frameworks/technologies -->
+<!-- since when images goes next line 😭🙏 -->
 <details open>
-<summary><ins>Languages and frameworks learned</ins></summary>
-  
-- HTML <a href="link" style="text-align: center"><img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" width="25" height="25" align="center"></a>
-- CSS <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="20" height="25" align="center"></a> 
-- JavaScript <a href="link" style="text-align: center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="25" height="25" align="center"></a>
-- Python <a href="link" style="text-align: center"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="25" height="25" align="center"></a> 
-- C++ <a href="link" style="text-align: center"><img src="https://isocpp.org/assets/images/cpp_logo.png" width="25" height="25" align="center"></a>
-- Node.JS <a href="link" style="text-align: center"><img src="https://nodejs.org/static/logos/jsIconGreen.svg" width="25" height="25" align="center"></a>
-- Symfony <a href="link" style="text-align: center"><img src="https://symfony.com/logos/symfony_white_03.png" width="35" height="40" align="center"></a>
+<summary><ins>Languages and frameworks learned</ins></summary>   
+- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="30" height="30" align="center"/>
+- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="30" height="30" align="center"/>
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" align="center"/>
+- Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" align="center"/>
+- C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" align="center"/>
+- Node.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" align="center"/>
+- Symfony <img src="https://symfony.com/favicons/favicon.svg" width="30" height="30" align="center"/>
 </details>
 
 <!-- What next languages/frameworks/technologies -->
 <details>
 <summary><ins>What next ?</ins></summary>
-
-- React <a href="link" style="text-align: center"><img src="https://react.dev/favicon-32x32.png" width="30" height="30" align="center"></a>
-- Vue.JS <a href="link" style="text-align: center"><img src="https://vuejs.org/logo.svg" width="30" height="30" align="center"></a>
-- Haxe <a href="link" style="text-align: center"><img src="https://haxe.org/img/branding/haxe-logo-glyph.png" width="30" height="30" align="center"></a>
-- Docker <a href="link" style="text-align: center"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="40" height="40" align="center"></a>
+- React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30" align="center">
+- Vue.JS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" height="30" align="center">
+- Haxe <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haxe/haxe-original.svg" width="30" height="30" align="center">
+- Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="30" height="30" align="center">
 </details>
 
 <p align="center">
